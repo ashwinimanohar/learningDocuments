@@ -1,0 +1,6 @@
+function timesFive(arg1){
+ return arg1*5;
+}
+timesFive(25);
+timesFive(10);
+timesFive(0);

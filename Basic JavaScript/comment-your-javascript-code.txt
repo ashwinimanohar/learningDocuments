@@ -1,0 +1,2 @@
+//comment in js
+/* comment in js */
